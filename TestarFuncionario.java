@@ -1,7 +1,7 @@
-
+// 6 questão
 
 public class TestarFuncionario {
-// 6 questão
+
 	public static void main(String[] args) {
 		Funcionario2 f1 = new Funcionario2();
 		f1.setNome("juliano");
