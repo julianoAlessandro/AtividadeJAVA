@@ -5,6 +5,15 @@ public class Animal {
 	private  int peso;
 	private  float velocidade;
 	
+	public Animal (String nome,int peso,float velocidade){
+			this.nome = nome;
+			this.peso = peso;
+			this.velocidade = velocidade;
+		
+		
+	}
+	
+	
 	public void som(){
 		System.out.println("Animal fazendo baruhlo");
 	}
@@ -32,13 +41,6 @@ public class Animal {
 			this.velocidade = velocidade;
 		}
 		
-		public Animal (String nome,int peso,float velocidade){
-			this.nome = nome;
-			this.peso = peso;
-			this.velocidade = velocidade;
-		
-		
-	}
 	
 }
 	
