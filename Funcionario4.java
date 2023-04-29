@@ -1,4 +1,4 @@
-
+//Questão14
 
 public class Funcionario4 extends Pessoa {
 	private int  id_funcinario;
