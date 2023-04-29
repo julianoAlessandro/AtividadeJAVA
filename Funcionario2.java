@@ -1,4 +1,4 @@
-//6 questão
+//Questão6
 
 public class Funcionario2 {
 private String nome;
