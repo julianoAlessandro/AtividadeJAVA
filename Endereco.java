@@ -1,4 +1,4 @@
-//6 questão 
+//Questão 6
 
 public class Endereco {
  private String rua;
